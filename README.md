@@ -2,7 +2,7 @@
 Taller GIT. Práctica 1.
 
 
-##Trabajar con un proyecto HTML y un repositorio local.
+## Trabajar con un proyecto HTML y un repositorio local.
 - Crea una carpeta practica-taller-git en tu pc.
 - Inicializa el repositorio. 
  ```bash
@@ -40,7 +40,8 @@ git status
 - Añade y confirma el .gitignore.
 - Puedes continuar añadiendo ficheros html, css e imágenes para probar el repositorio.
 
-##Haz un fork del repositorio creado para la práctica del taller:
+
+## Haz un fork del repositorio creado para la práctica del taller:
 - Entra en https://github.com/
 - Accede a tu cuenta.
 - Accede al repositorio https://github.com/josefranciscomunozespinosa/git-practica-1/
