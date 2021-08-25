@@ -58,6 +58,16 @@ git clone https://github.com/[tu-nombre-de-usuario]/git-practica-1.git
 git push
 ```
 - Crea una rama develop y cámbiate a ella.
+```bash
+git checkout -b develop
+```
 - Realiza cambios en el proyecto, confírmalos y súbelos al repositorio remoto.
-- Fusiona la rama develop con en master/main y sube los cambios al repositorio remoto.
+```bash
+git status
+git add *
+git commit -m "Mensaje del commit..."
+git push origin
+```
+- Desde github crea un pull request de la rama develop a main.
+- Fusiona la rama develop con en main. No deberías de tener ningún conflicto (los veremos en la [practica 2](https://github.com/josefranciscomunozespinosa/git-practica-2)).
 - Haz nuevos cambios en el proyecto siguiendo el flujo de trabajo git flow.
