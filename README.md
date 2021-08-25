@@ -71,3 +71,12 @@ git push origin
 - Desde github crea un pull request de la rama develop a main.
 - Fusiona la rama develop con en main. No deberías de tener ningún conflicto (los veremos en la [practica 2](https://github.com/josefranciscomunozespinosa/git-practica-2)).
 - Haz nuevos cambios en el proyecto siguiendo el flujo de trabajo git flow.
+
+
+## Preguntas
+
+- ¿Qué sucede cuando hacemos un git add?
+- ¿Qué sucede cuando hacemos un git commit? ¿Dónde está ese commit? 
+- ¿Por qué al hacer git commit todavía no está disponible ese commit en el repositorio remoto?
+- ¿Qué hay que hacer para que veamos este commit en nuestro repositorio remoto de github?
+- ¿Qué diferencia hay entre hacer un fork o crear una nueva rama?
