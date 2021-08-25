@@ -80,3 +80,4 @@ git push origin
 - ¿Por qué al hacer git commit todavía no está disponible ese commit en el repositorio remoto?
 - ¿Qué hay que hacer para que veamos este commit en nuestro repositorio remoto de github?
 - ¿Qué diferencia hay entre hacer un fork o crear una nueva rama?
+- ¿Qué ha pasado con el contenido de la carpeta practica-taller-git? ¿Por qué no la podemos ver en nuestro repositorio remoto de github?
