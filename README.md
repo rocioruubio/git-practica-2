@@ -44,11 +44,11 @@ git status
 ## Haz un fork del repositorio creado para la práctica del taller:
 - Entra en https://github.com/
 - Accede a tu cuenta.
-- Accede al repositorio https://github.com/josefranciscomunozespinosa/git-practica-2/
+- Accede al repositorio del profesor https://github.com/josefranciscomunozespinosa/git-practica-2/
 - Pulsa el botón fork (parte superior derecha) para crearte una copia del mismo en tu cuenta.
-- Clona el repositorio en tu equipo. 
+- Clona el repositorio en tu equipo. Quedará algo parecido a lo siguiente:
 ```bash
-git clone https://github.com/[tu-nombre-de-usuario]/git-practica-1.git
+git clone https://github.com/[tu-nombre-de-usuario]/git-practica-2.git
 ```
 - Crea un nuevo fichero en el proyecto que se llame [tu-nombre-de-usuario].html
 - Edita el fichero añadiendo como título tu nombre, algún texto y lo que desees en el.
