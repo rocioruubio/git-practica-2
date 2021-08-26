@@ -1,5 +1,5 @@
-# git practica 1
-Taller GIT. Práctica 1.
+# git practica 2
+Taller GIT. Práctica 2.
 
 
 ## Trabajar con un proyecto HTML y un repositorio local.
@@ -69,7 +69,7 @@ git commit -m "Mensaje del commit..."
 git push origin
 ```
 - Desde github crea un pull request de la rama develop a main.
-- Fusiona la rama develop con en main. No deberías de tener ningún conflicto (los veremos en la [practica 3](https://github.com/josefranciscomunozespinosa/git-practica-3)).
+- Fusiona la rama develop con en main. No deberías de tener ningún conflicto (los veremos más adelante en la [practica 4](https://github.com/josefranciscomunozespinosa/git-practica-4)).
 - Haz nuevos cambios en el proyecto siguiendo el flujo de trabajo git flow.
 
 
