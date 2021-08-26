@@ -74,6 +74,7 @@ git push origin
 
 
 ## Preguntas
+Crea un nuevo fichero respuestas.md, contesta las siguientes preguntas y súbelo al repositorio remoto de github:
 
 - ¿Qué sucede cuando hacemos un git add?
 - ¿Qué sucede cuando hacemos un git commit? ¿Dónde está ese commit? 
