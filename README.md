@@ -69,7 +69,7 @@ git commit -m "Mensaje del commit..."
 git push origin
 ```
 - Desde github crea un pull request de la rama develop a main.
-- Fusiona la rama develop con en main. No deberías de tener ningún conflicto (los veremos en la [practica 2](https://github.com/josefranciscomunozespinosa/git-practica-2)).
+- Fusiona la rama develop con en main. No deberías de tener ningún conflicto (los veremos en la [practica 3](https://github.com/josefranciscomunozespinosa/git-practica-3)).
 - Haz nuevos cambios en el proyecto siguiendo el flujo de trabajo git flow.
 
 
